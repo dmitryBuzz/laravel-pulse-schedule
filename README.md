@@ -2,8 +2,6 @@
 
 Laravel Pulse card that list all scheduled tasks.
 
-![Screenshot of a Laravel Pulse card showing all scheduled tasks.](assets/screenshot.png)
-
 ## Installation
 
 You can install the package via composer:
