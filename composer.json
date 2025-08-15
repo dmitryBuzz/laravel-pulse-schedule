@@ -1,5 +1,5 @@
 {
-    "name": "hosmelq/laravel-pulse-schedule",
+    "name": "dmitry_buzz/laravel-pulse-schedule",
     "description": "Laravel Pulse card that list all scheduled tasks.",
     "license": "MIT",
     "type": "library",
